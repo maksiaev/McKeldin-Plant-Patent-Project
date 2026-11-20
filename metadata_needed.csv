@@ -8,4 +8,4 @@ inventor_location_country,inventorBag/correspondenceAddressBag/,
 application_number,PatentFileWrapperDataBag/applicationNumberText,
 USPC_classification,uspcSymbolText,
 pages,assignmentBag/pageTotalQuantity,
-color_image,grantDocumentMetaData/zipFileName,?
+color_image,grantDocumentMetaData/zipFileName,DRW.SUPP
